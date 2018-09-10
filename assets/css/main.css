@@ -5388,9 +5388,7 @@ input[type="button"].btn-block {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: start;
-      -ms-flex-align: start;sgt2017
-    sgt2017
-    
+      -ms-flex-align: start;
           align-items: flex-start;
 }
 
